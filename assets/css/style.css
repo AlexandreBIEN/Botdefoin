@@ -99,3 +99,10 @@ body {
     padding: 10px;
     border-radius: 10px;
 }
+
+.link-text {
+    text-decoration: none;
+    color: #838383;
+    margin-right: 2rem;
+    
+}
