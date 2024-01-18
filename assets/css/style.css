@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+    max-width: 100% ! important;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -117,6 +118,7 @@ h1 {
     border: 0;
     border-radius: 10px;
     font-size: 18px;
+    color: white;
 }
 
 .active-menu {
@@ -177,6 +179,7 @@ h1 {
 
 .hero-contact-container {
     justify-content: center;
+    
 }
 
 .hero-title-home {
@@ -214,4 +217,12 @@ h1 {
 .hero-contact-container {
     text-decoration: none;
     color: black;
+}
+
+.map-zone {
+    background-color: white;
+}
+
+.par-map{
+    background-color: #F8D32A80;
 }
