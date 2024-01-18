@@ -46,3 +46,56 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* ---------- GENERAL ---------- */
+
+body {
+    background-color: #F5F5F5;
+}
+
+
+/* ---------- HEADER ---------- */
+
+.header-logo {
+    height: 56px;
+}
+
+.header-container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 72px;
+    justify-content: space-around;
+}
+
+.ul-container {
+    display: flex;
+    background-color: #ffffff;
+    justify-content: space-around;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.contact-btn {
+    background-color: #F8D32A;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 64px;
+    border: 0;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.active-menu {
+    background-color: #FEFCE8;
+    padding: 10px;
+    border-radius: 10px;
+}
