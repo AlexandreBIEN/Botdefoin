@@ -128,5 +128,44 @@ h1 {
 
 .hero-container {
     margin-top: 200px;
+    display: flex;
+    justify-content: center;
 }
 
+.hero-side {
+    width: 40%;
+}
+
+.hero-img {
+    width: 400px;
+}
+
+.hero-contact {
+    display: flex;
+}
+
+.hero-phone {
+    border: solid #F8D32A 3px;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    height: 64px;
+    width: 64px;
+}
+
+.hero-text-contact {
+    font-weight: bold;
+}
+
+.hero-contact-container {
+    justify-content: center;
+}
+
+.hero-phone {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

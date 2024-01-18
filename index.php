@@ -7,14 +7,16 @@ require_once __DIR__ . '/function.php';
 
 <main>
     <section class="hero-container">
-        <div class="">
+        <div class="hero-side">
             <h1 class="font-sulphur-point">Lorem ipsum dolor sit amet consectetur.</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic itaque molestiae laboriosam, sed ex vero quidem officiis.</p>
-            <button class="contact-btn">Nous contacter</button>
-            <button></button><p>Prendre contact</p><a href="tel:0235199191">02 35 19 91 91</a>
+            <div class="hero-contact">
+                <button class="contact-btn">Nous contacter</button>
+                <button class="hero-phone"><img src="/assets/img/solar_phone-calling-bold.svg" alt="icon téléphone"></button><div class="hero-contact-container"><p class="hero-text-contact">Prendre contact</p><a href="tel:0235199191">02 35 19 91 91</a></div>
+            </div>
         </div>
-        <div>
-            <img src="" alt="">
+        <div class="hero-side">
+            <img src="./assets/img/img-ceuilleur.png" alt="" class="hero-img">
         </div>
     </section>
 </main>
