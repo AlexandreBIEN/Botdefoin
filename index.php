@@ -6,7 +6,7 @@ require_once __DIR__ . '/function.php';
 ?>
 
 <main>
-    <p>test</p>
+    
 </main>
 
 <?php
