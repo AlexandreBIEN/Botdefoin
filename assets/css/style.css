@@ -71,6 +71,11 @@ h1 {
     font-family: 'Sulphur Point', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 .font-Anaheim {
     font-family: 'Anaheim', sans-serif;
 }
@@ -158,6 +163,7 @@ h1 {
 
 .hero-contact {
     display: flex;
+    margin-top: 20px;
 }
 
 .hero-phone {
@@ -206,4 +212,6 @@ a {
 .savoir-plus-activite-zone {
     padding-top: 5rem;
     padding-bottom: 5rem;
+.hero-title-home {
+    margin-bottom: 20px;
 }
