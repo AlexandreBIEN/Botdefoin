@@ -47,12 +47,29 @@ table {
 	border-spacing: 0;
 }
 
+/* ---------- FONTS ---------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@700&display=swap');
+/* font-family: 'Sulphur Point', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Anaheim&display=swap');
+/* font-family: 'Anaheim', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Anaheim&family=Inter:wght@500&display=swap');
+/* font-family: 'Inter', sans-serif; */
+
 /* ---------- GENERAL ---------- */
 
 body {
     background-color: #F5F5F5;
 }
 
+h1 {
+    font-size: 50px;
+    /* font-weight: bold; */
+}
+
+.font-sulphur-point {
+    font-family: 'Sulphur Point', sans-serif;
+}
 
 /* ---------- HEADER ---------- */
 
@@ -98,4 +115,10 @@ body {
     background-color: #FEFCE8;
     padding: 10px;
     border-radius: 10px;
+}
+
+/* ---------- MAIN ----------*/
+
+.hero-container {
+    margin-top: 200px;
 }
