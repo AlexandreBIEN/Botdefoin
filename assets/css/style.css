@@ -164,6 +164,8 @@ a {
     background-color: #F5F5F5;
     height: 64px;
     width: 64px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .hero-text-contact {
@@ -172,11 +174,6 @@ a {
 
 .hero-contact-container {
     justify-content: center;
-}
-
-.hero-phone {
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 .hero-title-home {
