@@ -71,6 +71,14 @@ h1 {
     font-family: 'Sulphur Point', sans-serif;
 }
 
+.font-Anaheim {
+    font-family: 'Anaheim', sans-serif;
+}
+
+.font-inter {
+    font-family: 'Inter', sans-serif;
+}
+
 /* ---------- HEADER ---------- */
 
 .header-logo {
@@ -138,3 +146,26 @@ h1 {
     margin-top: 200px;
 }
 
+.activite-zone {
+    background-color: #F8D32A2E;  
+}
+
+.nos-activite-activite-zone {
+    background-color: #F8D32A80;
+    margin-left: 48rem;
+    margin-right: 48rem;
+    padding-top: 12px;
+    padding-bottom: 1px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#a-contact-card {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.savoir-plus-activite-zone {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
