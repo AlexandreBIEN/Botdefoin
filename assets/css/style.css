@@ -112,7 +112,7 @@ h1 {
 }
 
 .active-menu {
-    background-color: #FEFCE8;
+    
     padding: 10px;
     border-radius: 10px;
 }
@@ -121,9 +121,17 @@ h1 {
     text-decoration: none;
     color: #838383;
     margin-right: 2rem;
-    
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
 }
 
+.link-text:hover  {
+    background-color: #FEFCE8;
+}
+
+.account-text-nav {
+    color: #A79440;
+}
 /* ---------- MAIN ----------*/
 
 .hero-container {
