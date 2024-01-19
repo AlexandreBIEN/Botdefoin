@@ -58,7 +58,32 @@ require_once __DIR__ . '/function.php';
         </div>
     </section>
     <section class="section-fondateurs">
-        
+        <!-- Fondateurs -->
+        <div class="fonda-item">
+            <img src="/assets/img/Renaud 1.jpg" alt="photo de Renaud" class="fonda-img">
+            <p class="fonda-name">Renaud</p>
+            <div class="fonda-black-line"></div>
+        </div>
+        <div class="fonda-item">
+            <img src="/assets/img/Photo Céline 2.jfif" alt="photo de Céline" class="fonda-img">
+            <p class="fonda-name">Céline</p>
+            <div class="fonda-black-line"></div>
+        </div>
+        <div class="fonda-item">
+            <img src="/assets/img/JN1.jpg" alt="photo de Jean-Noël" class="fonda-img">
+            <p class="fonda-name">Jean-Noël</p>
+            <div class="fonda-black-line"></div>
+        </div>
+        <div class="fonda-item">
+            <img src="/assets/img/Christophe 2.jpg" alt="photo de Christophe" class="fonda-img">
+            <p class="fonda-name">Christophe</p>
+            <div class="fonda-black-line"></div>
+        </div>
+        <div class="fonda-item">
+            <img src="/assets/img/Patrice.png" alt="photo de Patrice" class="fonda-img">
+            <p class="fonda-name">Patrice</p>
+            <div class="fonda-black-line"></div>
+        </div>
     </section>
     
 
