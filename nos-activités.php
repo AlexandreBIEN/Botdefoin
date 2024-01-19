@@ -8,8 +8,8 @@ require_once __DIR__ . '/function.php';
 <main>
     <section class="hero-container">
         <div class="hero-side">
-            <h1 class="font-sulphur-point hero-title-home">Botdefoin, on vous aiguille !</h1>
-            <p>Imaginez-vous l'odeur d'un vignoble, le partage autours de produits authentiques, un apéro concert dans les vignes, un explor games chez un maraîcher, la fabrication de  fromage à la ferme, c'est ce qu'on appelle vivre une belle expérience à la ferme. Venez rejoindre la communauté Botdefoin, vivre de belles expériences et créer un lien fidèle avec les agriculteurs.</p>
+            <h1 class="font-sulphur-point hero-title-home">Viens vivre des expériences à la ferme !</h1>
+            <p>Trouve le bon plan, l'idée originale pour un moment, un weekend, en famille ou entre pot … defoin !</p>
             <div class="hero-contact">
                 <button class="contact-btn">Nous contacter</button>
                 <button class="hero-phone"><img src="/assets/img/solar_phone-calling-bold.svg" alt="icon téléphone"></button><div class="hero-contact-container"><p class="hero-text-contact">Prendre contact</p><a href="tel:0235199191">02 35 19 91 91</a></div>
