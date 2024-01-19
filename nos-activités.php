@@ -31,27 +31,27 @@ require_once __DIR__ . '/function.php';
 
     <section class="activite-zone py-2 text-center">
         <div class="nos-activite-activite-zone ">
-            <p class="">Nos activités</p>
+            <p class="my-2 text-center">Nos activités</p>
         </div>
-        <h1 class="font-sulphur-point">Top des activités</h1>
+        <h1 class="font-sulphur-point mb-5">Top des <span class="text-warning">activités</span></h1>
         <div>
-            <p class="font-Anaheim">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </p>
+            <p class="font-Anaheim fs-5 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </p>
         </div>
 
         <div class="row row-cols-2 row-cols-md-2 g-4">
             <div class="col">
-                <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
-                    <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
+                <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" >
+                    <img src="./assets/img/image_1.png" class="card-img w-100 h-25" alt="..." >
                     <div class="card-img-overlay">
                         <div class="px-auto mx-auto text-start d-flex justify-content-between rounded">
-                            <h5 class="price-font text-dark mx-auto p-2 text-start">50€ / perso</h5>
+                            <h5 class="price-font text-dark mx-auto p-2 text-start rounded">50€ / perso</h5>
                             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.7375 33L11.175 22.4625L3 15.375L13.8 14.4375L18 4.5L22.2 14.4375L33 15.375L24.825 22.4625L27.2625 33L18 27.4125L8.7375 33Z" fill="white"/>
                             </svg>
 
                         </div>
                         <div class="text-card-top-activite">
-                            <h5 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h5>
+                            <h5 class="card-title p-2 align-items-end fs-2">Nous sommes Botdefoin</h5>
                             <p class="footer-yellow-line mb-1"/>
                             <p class="card-text p-2">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         </div>
@@ -60,18 +60,18 @@ require_once __DIR__ . '/function.php';
                 </div>
             </div>
             <div class="col">
-                <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
-                    <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
+                <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" >
+                    <img src="./assets/img/image_1.png" class="card-img w-100 h-25" alt="..." >
                     <div class="card-img-overlay">
                         <div class="px-auto mx-auto text-start d-flex justify-content-between rounded">
-                            <h5 class="price-font text-dark mx-auto p-2 text-start">50€ / perso</h5>
+                            <h5 class="price-font text-dark mx-auto p-2 text-start rounded">50€ / perso</h5>
                             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.7375 33L11.175 22.4625L3 15.375L13.8 14.4375L18 4.5L22.2 14.4375L33 15.375L24.825 22.4625L27.2625 33L18 27.4125L8.7375 33Z" fill="white"/>
                             </svg>
 
                         </div>
                         <div class="text-card-top-activite">
-                            <h5 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h5>
+                            <h5 class="card-title p-2 align-items-end fs-2">Nous sommes Botdefoin</h5>
                             <p class="footer-yellow-line mb-1"/>
                             <p class="card-text p-2">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         </div>
@@ -84,10 +84,10 @@ require_once __DIR__ . '/function.php';
         <div class="row row-cols-2 row-cols-md-3 g-4 mx-auto">
             <div class="col">
                 <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
-                    <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
+                    <img src="./assets/img/image_1.png" class="card-img img-fluid w-100 h-25" alt="..." >
                     <div class="card-img-overlay">
                         <div class="px-auto mx-auto text-start d-flex justify-content-between rounded">
-                            <h5 class="price-font text-dark mx-auto p-2 text-start">50€ / perso</h5>
+                            <h5 class="price-font text-dark mx-auto p-2 text-start rounded">50€ / perso</h5>
                             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.7375 33L11.175 22.4625L3 15.375L13.8 14.4375L18 4.5L22.2 14.4375L33 15.375L24.825 22.4625L27.2625 33L18 27.4125L8.7375 33Z" fill="white"/>
                             </svg>
@@ -104,10 +104,10 @@ require_once __DIR__ . '/function.php';
             </div> 
             <div class="col">
                 <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
-                    <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
+                    <img src="./assets/img/image_1.png" class="card-img img-fluid w-100 h-25" alt="..." >
                     <div class="card-img-overlay">
                         <div class="px-auto mx-auto text-start d-flex justify-content-between rounded">
-                            <h5 class="price-font text-dark mx-auto p-2 text-start">50€ / perso</h5>
+                            <h5 class="price-font text-dark mx-auto p-2 text-start rounded">50€ / perso</h5>
                             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.7375 33L11.175 22.4625L3 15.375L13.8 14.4375L18 4.5L22.2 14.4375L33 15.375L24.825 22.4625L27.2625 33L18 27.4125L8.7375 33Z" fill="white"/>
                             </svg>
@@ -124,10 +124,10 @@ require_once __DIR__ . '/function.php';
             </div> 
             <div class="col mr-5">
                 <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
-                    <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
+                    <img src="./assets/img/image_1.png" class="card-img img-fluid w-100 h-25" alt="..." >
                     <div class="card-img-overlay">
                         <div class="px-auto mx-auto text-start d-flex justify-content-between rounded">
-                            <h5 class="price-font text-dark mx-auto p-2 text-start">50€ / perso</h5>
+                            <h5 class="price-font text-dark mx-auto p-2 text-start rounded">50€ / perso</h5>
                             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.7375 33L11.175 22.4625L3 15.375L13.8 14.4375L18 4.5L22.2 14.4375L33 15.375L24.825 22.4625L27.2625 33L18 27.4125L8.7375 33Z" fill="white"/>
                             </svg>
