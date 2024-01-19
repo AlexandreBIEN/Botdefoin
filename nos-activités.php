@@ -17,6 +17,14 @@ require_once __DIR__ . '/function.php';
             <!-- <img src="/assets/img/arrow-down-2.png" alt="flèche vers le bas" class="hero-arrow-down"> -->
         </div>
         <div class="hero-side">
+            <div class="bg-light rounded shadow-lg px-4 py-2 d-flex d-inline-flex justify-content-around" style="position: absolute; top: 52%; left: 77%; transform: translate(-50%, -50%);">
+                    <h2 class="mt-1 mb-2 text-warning fs-2 mr-5 text-start justify-content-around">?      </h2>
+                    <h5 class=" text-end mt-3 justify-content-around" >Qui sommes-nous ?</h5>    
+            </div>
+            <div class="bg-light rounded shadow-lg px-4 py-2" style="position: absolute; top: 72%; left: 47%; transform: translate(-50%, -50%); z-index: -1;">
+                    <h4 class="mt-1 mb-2">Nombres d'activités</h4>
+                    <h1 class="text-warning text-start fw-bold " >15</h1>    
+            </div>
             <img src="./assets/img/img-brouette.png" alt="" class="hero-img">
         </div>
     </section>
@@ -73,8 +81,8 @@ require_once __DIR__ . '/function.php';
             </div>  
         </div>
 
-        <div class="row row-cols-2 row-cols-md-3 g-4">
-        <div class="col">
+        <div class="row row-cols-2 row-cols-md-3 g-4 mx-auto">
+            <div class="col">
                 <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
                     <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
                     <div class="card-img-overlay">
@@ -85,10 +93,10 @@ require_once __DIR__ . '/function.php';
                             </svg>
 
                         </div>
-                        <div class="text-card-top-activite">
-                            <h5 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h5>
+                        <div class="text-card-top-activite-little">
+                            <h2 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h2>
                             <p class="footer-yellow-line mb-1"/>
-                            <p class="card-text p-2">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            
                         </div>
                         
                     </div>
@@ -105,16 +113,16 @@ require_once __DIR__ . '/function.php';
                             </svg>
 
                         </div>
-                        <div class="text-card-top-activite">
-                            <h5 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h5>
+                        <div class="text-card-top-activite-little">
+                            <h2 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h2>
                             <p class="footer-yellow-line mb-1"/>
-                            <p class="card-text p-2">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            
                         </div>
                         
                     </div>
                 </div>
             </div> 
-            <div class="col">
+            <div class="col mr-5">
                 <div class="card text-bg-dark card-activite-top m-5 text-start d-flex align-items-end flex-column mb-3 col" style="width: 500px;">
                     <img src="./assets/img/image_1.png" class="card-img img-fluid" alt="..." >
                     <div class="card-img-overlay">
@@ -125,10 +133,10 @@ require_once __DIR__ . '/function.php';
                             </svg>
 
                         </div>
-                        <div class="text-card-top-activite">
-                            <h5 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h5>
+                        <div class="text-card-top-activite-little">
+                            <h2 class="card-title p-2 align-items-end">Nous sommes Botdefoin</h2>
                             <p class="footer-yellow-line mb-1"/>
-                            <p class="card-text p-2">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            
                         </div>
                         
                     </div>
