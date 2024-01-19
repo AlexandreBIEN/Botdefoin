@@ -60,6 +60,7 @@ table {
 
 body {
     background-color: #F5F5F5;
+    font-family: 'Anaheim', sans-serif;
 }
 
 h1 {
@@ -242,6 +243,46 @@ h1 {
     background-color: #FAF3D5 ;
 }
 
+footer {
+    background-color: #F8D32A;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 /* .contact-footer-section {
     
 } */
+
+.footer-line {
+    background-color: white;
+    width: 40px;
+    height: 2px;
+}
+
+.footer-title {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.footer-list li{
+    padding-top: 20px;
+}
+
+.footer-rs {
+    padding-right: 10px;
+}
+
+.footer-text-rs {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.copyright {
+    background-color: #F8D32A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
