@@ -11,9 +11,9 @@
 <body>
 <header class="header-container">
     <nav class="nav-container">
-        <img src="../assets/img/logo.png" alt="logo de Botdefoin" class="header-logo">
+        <a href="/index.php"><img src="../assets/img/logo.png" alt="logo de Botdefoin" class="header-logo"></a>
         <ul class="ul-container">
-            <li><a href="" class="active-menu link-text">Nos activités</a></li>
+            <li><a href="../nos-activités.php" class="active-menu link-text">Nos activités</a></li>
             <li><a href="" class="active-menu link-text">Qui nous-sommes</a></li>
             <li><a href="" class="active-menu link-text">Nos agriculteur</a></li>
             <li><a href="" class="active-menu link-text">Actualité</a></li>
