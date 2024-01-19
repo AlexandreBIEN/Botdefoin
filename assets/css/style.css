@@ -241,6 +241,24 @@ h1 {
 
 .footer-section {
     background-color: #FAF3D5 ;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-section img {
+    width: 100px;
+    height: 100px;
+}
+
+.text-contact {
+    padding-bottom: 20px;
+}
+
+.flex-end {
+    display: flex;
+    justify-content: end;
 }
 
 footer {
@@ -252,9 +270,26 @@ footer {
     padding-bottom: 50px;
 }
 
-/* .contact-footer-section {
-    
-} */
+.contact-footer-section {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    justify-content: space-around;
+}
+
+.footer-contact-title {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.footer-yellow-line {
+    background-color: #F8D32A;
+    width: 100px;
+    height: 2px;
+    margin-top: 10px;
+}
 
 .footer-line {
     background-color: white;
