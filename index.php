@@ -99,7 +99,7 @@ require_once __DIR__ . '/function.php';
         </div>
         <h1 class="font-sulphur-point">Des expériences pour toi !</h1>
         <div>
-            <p class="font-Anaheim">Tu fais partie de la communauté Botdefoin, ces expériences vont te plaire !</p>
+            <p class="font-Anaheim padding-top-bottom-20">Tu fais partie de la communauté Botdefoin, ces expériences vont te plaire !</p>
         </div>
 
         <div class="row row-cols-md-6">
