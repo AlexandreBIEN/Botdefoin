@@ -456,7 +456,7 @@ require_once __DIR__ . '/function.php';
                 </div>
             </div>
         </div>
-        <div class="savoir-plus-activite-zone ">
+        <div class="savoir-plus-activite-zone text-center">
             <a href="#" class="btn btn-light font-inter shadow-lg px-5 text-center " id="a-contact-card">En Savoir plus</a>
         </div>
     </section>
