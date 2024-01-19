@@ -172,6 +172,12 @@ h1 {
     margin-right: 20px;
 }
 
+.learn-more-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .hero-text-contact {
     font-weight: bold;
 }
@@ -182,6 +188,11 @@ h1 {
 
 .hero-title-home {
     margin-bottom: 20px;
+}
+
+.padding-botdefoin {
+    /* padding-top: 50px; */
+    padding-bottom: 50px;
 }
 
 .activite-zone {

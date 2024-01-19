@@ -20,6 +20,19 @@ require_once __DIR__ . '/function.php';
             <img src="./assets/img/img-ceuilleur.png" alt="" class="hero-img">
         </div>
     </section>
+    <section class="hero-container padding-botdefoin">
+        <div class="hero-side">
+            <img src="./assets/img/image_1.png" alt="image famille" class="hero-img">
+        </div>
+        <div class="hero-side">
+            <h1 class="font-sulphur-point hero-title-home">Nous sommes Botdefoin</h1>
+            <p>Nous sommes cinq manager de coopératives agricoles. Nous avons fondé Botdefoin pour consolider et mettre en lumière un marché traditionnel d'expériences à la ferme et permettre à l'agriculteur d'investir dans la différence au-delà de la vente directe : la relation directe et la créativité en adoptant les codes du tourisme, des loisirs et de la culture.</p>
+            <div class="hero-contact">
+                <button class="contact-btn learn-more-btn">En savoir plus <img src="/assets/img/ArrowRightOutlined.png" alt=""></button>
+            </div>
+            <!-- <img src="/assets/img/arrow-down-2.png" alt="flèche vers le bas" class="hero-arrow-down"> -->
+        </div>
+    </section>
 
     <section class="activite-zone py-2 text-center">
         <div class="nos-activite-activite-zone ">
