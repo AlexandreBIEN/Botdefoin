@@ -97,9 +97,9 @@ require_once __DIR__ . '/function.php';
         <div class="nos-activite-activite-zone ">
             <p class="">Nos activités</p>
         </div>
-        <h1 class="font-sulphur-point">Lorem Ipsum del marre</h1>
+        <h1 class="font-sulphur-point">Des expériences pour toi !</h1>
         <div>
-            <p class="font-Anaheim">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </p>
+            <p class="font-Anaheim">Tu fais partie de la communauté Botdefoin, ces expériences vont te plaire !</p>
         </div>
 
         <div class="row row-cols-md-6">
@@ -131,11 +131,11 @@ require_once __DIR__ . '/function.php';
                         <svg width="8" height="50" viewBox="0 0 8 50" fill="none" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 55%; left: 1%; transform: translate(-50%, -50%);">
                             <path d="M0 0H5C6.65685 0 8 1.34315 8 3V47C8 48.6569 6.65685 50 5 50H0V0Z" fill="#F8D32A"/>
                         </svg>
-                        <h5 class="card-title font-sulphur-point">Lorem Ipsum del marre</h5>
-                        <small class="card-text font-Anaheim">Lorem ipsum dolor sit amet</small>
+                        <h5 class="card-title font-sulphur-point">Dégustation à la ferme</h5>
+                        <small class="card-text font-Anaheim">Escons Domaine de Charme</small>
                     </div>
                     <div class="card-footer bg-white font-Anaheim ">
-                        <p class="card-text bg-white text-start">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                        <p class="card-text bg-white text-start">Avec un grand chef appelé Anne, venez sublimer le gigot d'agneau et le Haricot de Castelnaudary dans un accord parfait mets et vins.</p>
                         <a href="#" class="btn btn-warning " id="a-contact-card">Nous contacter</a>
                     </div>
                 </div>
@@ -168,11 +168,11 @@ require_once __DIR__ . '/function.php';
                         <svg width="8" height="50" viewBox="0 0 8 50" fill="none" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 55%; left: 1%; transform: translate(-50%, -50%);">
                             <path d="M0 0H5C6.65685 0 8 1.34315 8 3V47C8 48.6569 6.65685 50 5 50H0V0Z" fill="#F8D32A"/>
                         </svg>
-                        <h5 class="card-title font-sulphur-point">Lorem Ipsum del marre</h5>
-                        <small class="card-text font-Anaheim">Lorem ipsum dolor sit amet</small>
+                        <h5 class="card-title font-sulphur-point">Atelier coach</h5>
+                        <small class="card-text font-Anaheim">Coopérative CAVALE</small>
                     </div>
                     <div class="card-footer bg-white font-Anaheim ">
-                        <p class="card-text bg-white text-start">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                        <p class="card-text bg-white text-start">Atelier coach de votre apéro au pole oléotouristique avec Marine et Théo. Apprenez à réaliser vos apéritifs à base des olives du Moulin du Sou Limoux.</p>
                         <a href="#" class="btn btn-warning " id="a-contact-card">Nous contacter</a>
                     </div>
                 </div>
@@ -205,11 +205,11 @@ require_once __DIR__ . '/function.php';
                         <svg width="8" height="50" viewBox="0 0 8 50" fill="none" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 55%; left: 1%; transform: translate(-50%, -50%);">
                             <path d="M0 0H5C6.65685 0 8 1.34315 8 3V47C8 48.6569 6.65685 50 5 50H0V0Z" fill="#F8D32A"/>
                         </svg>
-                        <h5 class="card-title font-sulphur-point">Lorem Ipsum del marre</h5>
-                        <small class="card-text font-Anaheim">Lorem ipsum dolor sit amet</small>
+                        <h5 class="card-title font-sulphur-point">Explor games</h5>
+                        <small class="card-text font-Anaheim">Domaine de Fourn</small>
                     </div>
                     <div class="card-footer bg-white font-Anaheim ">
-                        <p class="card-text bg-white text-start">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                        <p class="card-text bg-white text-start">Chez un viticulteur Blanquette de Limoux avec Mélanie et Lucile. En famille ou entre amis, partez à la quête du mystérieux Cœur de Limoux pour sauver la Haute Vallée de l'Aude !</p>
                         <a href="#" class="btn btn-warning " id="a-contact-card">Nous contacter</a>
                     </div>
                 </div>
