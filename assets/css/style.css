@@ -267,12 +267,17 @@ a {
 }
 
 .text-card-top-activite{
-   margin-top: 185px;
+   margin-top: 315px;
+   
 }
 
 .card-item .card-title {
     font-weight: bold;
     font-size: 24px;
+}
+.text-card-top-activite-little {
+    margin-top: 250px;
+    font-size: x-large;
 }
 
 .card-img {
