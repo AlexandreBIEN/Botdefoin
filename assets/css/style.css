@@ -233,9 +233,14 @@ a {
     color: black;
 }
 
+.price-font {
+    background-color: #FFFFFFCC;
+}
 
 
-
+.text-card-top-activite{
+   margin-top: 185px;
+}
 
 
 
