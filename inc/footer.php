@@ -26,7 +26,7 @@
         <p class="footer-text-rs">Retrouvez-nous sur : </p>
         <div>
             <img src="/assets/img/facebook-logo.png" alt="icon facebook" class="footer-rs">
-            <img src="/assets/img/twitter-logo.png" alt="icon twitter" class="footer-rs">
+            <img src="/assets/img/tiktok-logo.png" alt="icon tiktok" class="footer-rs">
             <img src="/assets/img/instagram-logo.png" alt="icon instagram" class="footer-rs">
         </div>
     </div>
