@@ -9,7 +9,7 @@
 </section>
 <section class="contact-footer-section">
     <div class="hero-side">
-        <h2 class="footer-contact-title">Contactez-nous pour un éventuel rendez-vous</h2>
+        <h2 class="footer-contact-title">Agriculteur rejoignez la communauté et lancez votre expérience !</h2>
         <div class="footer-yellow-line"></div>
     </div>
     <div class="hero-side">
